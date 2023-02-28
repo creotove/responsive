@@ -7,3 +7,5 @@
 + Image Gallery
 - Footer
 
+# Live Demo
+https://creotove.github.io/responsive/
